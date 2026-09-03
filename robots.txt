@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asaquick.dothome.co.kr/sitemap.xml
+Sitemap: https://인천퀵서비스.퀵배송1661-4262.kr/sitemap.xml
 
 
 
